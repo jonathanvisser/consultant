@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>project-management agile on Jonathan&#39;s Portfolio</title>
-    <link>https://jonathanvisser.github.io/consultant/portfolio/categories/project-management-agile/</link>
+    <link>https://jonathanvisser.github.io/consultant/categories/project-management-agile/</link>
     <description>Recent content in project-management agile on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:57:40 +0530</lastBuildDate>
     
-	<atom:link href="https://jonathanvisser.github.io/consultant/portfolio/categories/project-management-agile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/categories/project-management-agile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Engagement Planning</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/engagement-planning/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/engagement-planning/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/engagement-planning/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/engagement-planning/</guid>
       <description>&lt;p&gt;This is a multi-streamed Gantt chart that illustrates how a major digital transformation project might run.&lt;/p&gt;</description>
     </item>
     

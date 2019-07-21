@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>product-management business-analysis on Jonathan&#39;s Portfolio</title>
-    <link>https://jonathanvisser.github.io/consultant/portfolio/categories/product-management-business-analysis/</link>
+    <link>https://jonathanvisser.github.io/consultant/categories/product-management-business-analysis/</link>
     <description>Recent content in product-management business-analysis on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
     
-	<atom:link href="https://jonathanvisser.github.io/consultant/portfolio/categories/product-management-business-analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/categories/product-management-business-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Component Modeling</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/component_modeling/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/component_modeling/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/component_modeling/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/component_modeling/</guid>
       <description>&lt;p&gt;Pulling together large composite products - involving consulting, technology, and services components - requires strong conceptual ability combined with excellent integration skills.&lt;/p&gt;</description>
     </item>
     

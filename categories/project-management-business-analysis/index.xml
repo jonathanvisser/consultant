@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>project-management business-analysis on Jonathan&#39;s Portfolio</title>
-    <link>https://jonathanvisser.github.io/consultant/portfolio/categories/project-management-business-analysis/</link>
+    <link>https://jonathanvisser.github.io/consultant/categories/project-management-business-analysis/</link>
     <description>Recent content in project-management business-analysis on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
     
-	<atom:link href="https://jonathanvisser.github.io/consultant/portfolio/categories/project-management-business-analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/categories/project-management-business-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Product Flow Diagram</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/product_flow_diagram/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/product_flow_diagram/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/product_flow_diagram/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/product_flow_diagram/</guid>
       <description>&lt;p&gt;A key and highly relevant strength of PRINCE2 is its focus of product-based planning (as opposed to planning based on tasks). This is even more relevant now - in the age of Micro-services, mobile apps, and long-running Agile Roadmaps.&lt;/p&gt;</description>
     </item>
     
