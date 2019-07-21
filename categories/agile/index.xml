@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agile on Jonathan&#39;s Portfolio</title>
+    <link>https://github.com/jonathanvisser/consultant/categories/agile/</link>
+    <description>Recent content in agile on Jonathan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate>
+    
+	<atom:link href="https://github.com/jonathanvisser/consultant/categories/agile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rapid Prototyping</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/bootstrap_prototype/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/bootstrap_prototype/</guid>
+      <description>&lt;p&gt;Sometimes it&amp;rsquo;s helpful to see wireframes brought to life. Here&amp;rsquo;s a simple example of a services shopping-basket experience.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

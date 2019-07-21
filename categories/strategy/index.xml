@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strategy on Jonathan&#39;s Portfolio</title>
+    <link>https://github.com/jonathanvisser/consultant/categories/strategy/</link>
+    <description>Recent content in strategy on Jonathan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
+    
+	<atom:link href="https://github.com/jonathanvisser/consultant/categories/strategy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Capability Analysis</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/capabilities-analysis/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/capabilities-analysis/</guid>
+      <description>&lt;p&gt;Managing diverse capabilities across multi-functional teams can be a challenge. It&amp;rsquo;s even more difficult if you inherit a large team and there&amp;rsquo;s no skills documentation or technology strategy to align to.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Operational Strategy</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/operational_strategy/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/operational_strategy/</guid>
+      <description>&lt;p&gt;A good operational strategy shows how you will get from where you are to where you want to be. It has to deal with reality, but connect it to the vision.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Capability Management</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/capability-management/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/capability-management/</guid>
+      <description>&lt;p&gt;It can be helpful to see the big picture - to visualise and communicate the entirety of the capability you can field. This heatmap was created in R Studio using aggregate survey data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hypothesis Testing</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/hypothesis_testing/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/hypothesis_testing/</guid>
+      <description>&lt;p&gt;Experimentation is an important part of innovation. Here, I have taken key hypothesis from a &lt;a href=&#34;https://github.com/jonathanvisser/consultant/portfolio/business_model_canvas/&#34;&gt;business model canvas&lt;/a&gt; and identified tests in order to validate assumptions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Operational Framework</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/operational-framework/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/operational-framework/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s a lot that goes into making software well. You&amp;rsquo;re doing it anyway, you may as well manage it well. This operational framework helps manage and mature processes through-out the business unit, and across all projects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Process Radar</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/process-radar/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/process-radar/</guid>
+      <description>&lt;p&gt;Inspired by ThoughtWorks&amp;rsquo; TechRadar and Tech-Info&amp;rsquo;s approach to prioritising process improvement, here I&amp;rsquo;ve mapped all items from the &lt;a href=&#34;../operational-framework&#34;&gt;Operational Framework&lt;/a&gt; on to a radar.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Professional Development</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/professional-development/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/professional-development/</guid>
+      <description>&lt;p&gt;It can be challenging to manage professional development well in multi-functional teams where many team members have overlapping skills and different profession interests. This can be further complicated if there is market-pressure to align towards certain strengths.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Strategic Planning</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/strategic_planning/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/strategic_planning/</guid>
+      <description>&lt;p&gt;To be actionable, a strategy has to be clear and connected to activities. In practice, the connection goes both ways; frequently intuition and experience has already identified key activities and tactics. And it&amp;rsquo;s useful to connect these to their upstream &amp;ldquo;why&amp;rdquo;. This creates alignment.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tech Radar</title>
+      <link>https://github.com/jonathanvisser/consultant/portfolio/tech-radar/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://github.com/jonathanvisser/consultant/portfolio/tech-radar/</guid>
+      <description>&lt;p&gt;Today, there is a lot of technology. A complex world, at once diverse/overlapping and fragmented/integrated. ThoughtWorks have a great tool, they call their &amp;ldquo;TechRadar&amp;rdquo;. Here, I&amp;rsquo;ve used this tool and tailored it for a specific development team.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

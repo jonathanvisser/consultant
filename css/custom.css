@@ -1,0 +1,61 @@
+/* your styles go here */
+.box-masonry h4 a, .sidebar-heading a{
+    color: #333333;
+}
+
+.filters {
+    width: 100%;
+    margin-bottom:24px;
+    text-align: center;
+}
+.filter {
+    background: #333333;
+    color: #aac8ce;
+    display: inline-block;
+    padding: 0.5em;
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.18);
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    cursor: pointer;
+    font-size: 14px;
+    
+}
+.filter-label{
+    font-style: italic;
+    font-size: 14px;
+}
+
+.mixitup-control-active{
+    font-weight: bold;
+    background: #aac8ce;
+    color: #333333;
+}
+
+.container:after {
+    content: '';
+    /*display: inline-block;*/
+    width: 100%;
+}
+
+.box-masonry-image{
+    border: solid #333333 10px;
+    border-radius: 3px;
+}
+.box-masonry{
+   background:  #dee5e6;
+}
+.copyright{
+    position:absolute;
+
+}
+img.img-responsive{
+    border: solid white 16px;
+}
+
+.img-large{
+    min-width: 900px;
+}
+.img-largest{
+    min-width: 1200px;
+}
