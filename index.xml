@@ -2,201 +2,201 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan&#39;s Portfolio</title>
-    <link>https://github.com/jonathanvisser/consultant/</link>
+    <link>https://jonathanvisser.github.io/consultant/</link>
     <description>Recent content on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
     
-	<atom:link href="https://github.com/jonathanvisser/consultant/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Capability Analysis</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/capabilities-analysis/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/capabilities-analysis/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/capabilities-analysis/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/capabilities-analysis/</guid>
       <description>&lt;p&gt;Managing diverse capabilities across multi-functional teams can be a challenge. It&amp;rsquo;s even more difficult if you inherit a large team and there&amp;rsquo;s no skills documentation or technology strategy to align to.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Design Thinking and Software Development</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/design-thinking/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/design-thinking/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/design-thinking/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/design-thinking/</guid>
       <description>&lt;p&gt;Design Thinking has really had a major impact on the way we innovate within software teams. I thought it would be interesting to illustrate how it could integrate with the software development lifecycle - showing how it aligns to a solution team.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Governance Reporting</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/product-governance-reporting/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/product-governance-reporting/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/product-governance-reporting/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/product-governance-reporting/</guid>
       <description>&lt;p&gt;We needed a lean and rapid way to manage a number of key internal innovation initiatives that had all begun across the company. I pulled together this dashboard in Excel - identifying key dimensions and metrics.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Market Sizing</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/market_sizing/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/market_sizing/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/market_sizing/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/market_sizing/</guid>
       <description>&lt;p&gt;There are different ways to construct a model for market sizing. Here is a classic top-down model. The one shown here suits situations where there is a large known market.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Operational Strategy</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/operational_strategy/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/operational_strategy/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/operational_strategy/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/operational_strategy/</guid>
       <description>&lt;p&gt;A good operational strategy shows how you will get from where you are to where you want to be. It has to deal with reality, but connect it to the vision.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Produce Value Curve  Analysis</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/value_curve_analysis/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/value_curve_analysis/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/value_curve_analysis/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/value_curve_analysis/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s important to identify key competitive factors that will impact the success of your product. By evaluating competitor products using the same criteria, you can ensure you have a compelling offering. It also help with positioning and sales enablement.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sales Pipeline Modeling</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/sales-pipeline-modeling/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/sales-pipeline-modeling/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/sales-pipeline-modeling/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/sales-pipeline-modeling/</guid>
       <description>&lt;p&gt;This is a visualisation of a sales pipeline. It&amp;rsquo;s a bubble chart mapping sales stage to the horizontal axis, and opportunity size to the size of each data point. I&amp;rsquo;ve applied an arbitrary algorithm to create the funnel effect on the vertical axis.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sales Pipeline Report</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/sales-pipeline-report/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/sales-pipeline-report/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/sales-pipeline-report/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/sales-pipeline-report/</guid>
       <description>&lt;p&gt;This is an example sales pipeline report for a product. At each stage, the prospects are grouped into colour-coded priority targets - to help drive focus.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Software Estimation</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/software-estimation/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/software-estimation/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/software-estimation/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/software-estimation/</guid>
       <description>&lt;p&gt;There are many different ways to estimate software - depending on the timeframe and quality constraints. I&amp;rsquo;ve refined a number of techniques - and often find the best way is to combine them to fit the situation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Solution Technology Review</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/solution-technology-review/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/solution-technology-review/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/solution-technology-review/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/solution-technology-review/</guid>
       <description>&lt;p&gt;This is a qualitative report card produced for some inherited enterprise software code base. I designed the dimensions to ensure we produced an holistic view. Speed was vital - so there are no time to become bogged down in analysis paralysis. So I created set of survey tools for each dimension and had relevant experts provide their input.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Component Modeling</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/component_modeling/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/component_modeling/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/component_modeling/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/component_modeling/</guid>
       <description>&lt;p&gt;Pulling together large composite products - involving consulting, technology, and services components - requires strong conceptual ability combined with excellent integration skills.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Agile Reporting</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/agile-reporting/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/agile-reporting/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/agile-reporting/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/agile-reporting/</guid>
       <description>&lt;p&gt;Real-time transparency is a vital part of Agile. It means you can build confidence with stakeholders even as clarity is still forming and things are changing.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Capability Management</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/capability-management/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/capability-management/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/capability-management/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/capability-management/</guid>
       <description>&lt;p&gt;It can be helpful to see the big picture - to visualise and communicate the entirety of the capability you can field. This heatmap was created in R Studio using aggregate survey data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Customer Segmentation</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/customer_segmentation/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/customer_segmentation/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/customer_segmentation/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/customer_segmentation/</guid>
       <description>&lt;p&gt;One of the best ways to isolate the kind of differentiation needed to make headway in a competitive market is to look for value-propositions that intersect adjacent customer segments.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hypothesis Testing</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/hypothesis_testing/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/hypothesis_testing/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/hypothesis_testing/</guid>
-      <description>&lt;p&gt;Experimentation is an important part of innovation. Here, I have taken key hypothesis from a &lt;a href=&#34;https://github.com/jonathanvisser/consultant/portfolio/business_model_canvas/&#34;&gt;business model canvas&lt;/a&gt; and identified tests in order to validate assumptions.&lt;/p&gt;</description>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/hypothesis_testing/</guid>
+      <description>&lt;p&gt;Experimentation is an important part of innovation. Here, I have taken key hypothesis from a &lt;a href=&#34;https://jonathanvisser.github.io/consultant/portfolio/business_model_canvas/&#34;&gt;business model canvas&lt;/a&gt; and identified tests in order to validate assumptions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Operational Framework</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/operational-framework/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/operational-framework/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/operational-framework/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/operational-framework/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s a lot that goes into making software well. You&amp;rsquo;re doing it anyway, you may as well manage it well. This operational framework helps manage and mature processes through-out the business unit, and across all projects.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Process Radar</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/process-radar/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/process-radar/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/process-radar/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/process-radar/</guid>
       <description>&lt;p&gt;Inspired by ThoughtWorks&amp;rsquo; TechRadar and Tech-Info&amp;rsquo;s approach to prioritising process improvement, here I&amp;rsquo;ve mapped all items from the &lt;a href=&#34;../operational-framework&#34;&gt;Operational Framework&lt;/a&gt; on to a radar.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Product Flow Diagram</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/product_flow_diagram/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/product_flow_diagram/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/product_flow_diagram/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/product_flow_diagram/</guid>
       <description>&lt;p&gt;A key and highly relevant strength of PRINCE2 is its focus of product-based planning (as opposed to planning based on tasks). This is even more relevant now - in the age of Micro-services, mobile apps, and long-running Agile Roadmaps.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Professional Development</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/professional-development/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/professional-development/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/professional-development/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/professional-development/</guid>
       <description>&lt;p&gt;It can be challenging to manage professional development well in multi-functional teams where many team members have overlapping skills and different profession interests. This can be further complicated if there is market-pressure to align towards certain strengths.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Requirements Specification</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/requirements/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/requirements/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/requirements/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/requirements/</guid>
       <description>&lt;p&gt;Once the User Stories have been identified, it&amp;rsquo;s time to flesh-out the business rules. Cucumber/Gherkin is a great requirements specification standard to use. It&amp;rsquo;s business-user friendly, well-structured and consistent, and leads directly to automated testing.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Risk Analysis</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/risk-analysis/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/risk-analysis/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/risk-analysis/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/risk-analysis/</guid>
       <description>&lt;p&gt;This risk analysis report was created by detailed review of a risk log - sizing/pricing potential impact both before and after identified countermeasures had been applied. Each risk was further categorised and tagged to help improve risk management.&lt;/p&gt;
 
 &lt;p&gt;This made project risks clear, actionable, and helped establish a fair basis for any fixed-price negotiations.&lt;/p&gt;</description>
@@ -204,73 +204,73 @@
     
     <item>
       <title>Service Productisation</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/service-productisation/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/service-productisation/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/service-productisation/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/service-productisation/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s important to make things easy and repeatable. As I helped a customer with a tricky situation, I realised I had assembled a solid approach - with a set of related techniques - that could help others. I packaged it into a methodology and produced supporting collateral.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Strategic Planning</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/strategic_planning/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/strategic_planning/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/strategic_planning/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/strategic_planning/</guid>
       <description>&lt;p&gt;To be actionable, a strategy has to be clear and connected to activities. In practice, the connection goes both ways; frequently intuition and experience has already identified key activities and tactics. And it&amp;rsquo;s useful to connect these to their upstream &amp;ldquo;why&amp;rdquo;. This creates alignment.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tech Radar</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/tech-radar/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/tech-radar/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/tech-radar/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/tech-radar/</guid>
       <description>&lt;p&gt;Today, there is a lot of technology. A complex world, at once diverse/overlapping and fragmented/integrated. ThoughtWorks have a great tool, they call their &amp;ldquo;TechRadar&amp;rdquo;. Here, I&amp;rsquo;ve used this tool and tailored it for a specific development team.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>User Story Mapping</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/user_story_mapping/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/user_story_mapping/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/user_story_mapping/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/user_story_mapping/</guid>
       <description>&lt;p&gt;User story mapping is an essential Agile requirements management technique. It builds a hierarchical behavioural model of the software, and outlines the essential business process flow by user role.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project Delivery Planning</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/delivery_planning/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/delivery_planning/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/delivery_planning/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/delivery_planning/</guid>
       <description>&lt;p&gt;I love tools that are simple yet powerful. Here is a one-page project plan that doubles as a living report.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Concept Development</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/concept-development/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/concept-development/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/concept-development/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/concept-development/</guid>
       <description>&lt;p&gt;All products start with an idea. If that idea can be captured in a way that&amp;rsquo;s tangible and clear, the concept can be improved, collaborated on, and momentum can be built.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Process Documentation</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/process_documentation/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/process_documentation/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/process_documentation/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/process_documentation/</guid>
       <description>&lt;p&gt;For some teams Agile is still a new concept. Frequently people are coming together with a mixture of experiences and ideas. Some teams might need or want to grow their own unique spin on Agile.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>UI Wireframing</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/wireframing/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/wireframing/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/wireframing/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/wireframing/</guid>
       <description>&lt;p&gt;There are various ways to generate rapid UI prototypes. Sometimes a whiteboard diagram is all that&amp;rsquo;s required - once digitised and embedded in a document, it can be perfect for validating requirements and core business flows.&lt;/p&gt;
 
 &lt;p&gt;An intermediate approach - short of producing an HTML mock-up or engaging a designer - is to use a diagramming tool to put together a wireframe. This is an excellent way to really think through the scope and requirements.&lt;/p&gt;</description>
@@ -278,64 +278,64 @@
     
     <item>
       <title>Engagement Planning</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/engagement-planning/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/engagement-planning/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/engagement-planning/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/engagement-planning/</guid>
       <description>&lt;p&gt;This is a multi-streamed Gantt chart that illustrates how a major digital transformation project might run.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Business Model Canvas</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/business_model_canvas/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/business_model_canvas/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/business_model_canvas/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/business_model_canvas/</guid>
       <description>&lt;p&gt;The business model canvas is a great way to distill and communicate the essence of a business or product. It&amp;rsquo;s a way to make simple statements that lead to interesting questions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rapid Prototyping</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/bootstrap_prototype/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/bootstrap_prototype/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/bootstrap_prototype/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/bootstrap_prototype/</guid>
       <description>&lt;p&gt;Sometimes it&amp;rsquo;s helpful to see wireframes brought to life. Here&amp;rsquo;s a simple example of a services shopping-basket experience.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Benefits Analysis</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/benefits_analysis/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/benefits_analysis/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/benefits_analysis/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/benefits_analysis/</guid>
       <description>&lt;p&gt;Here is an example of best-practice benefits modeling. Each benefit is placed on a matrix - positioned according to how tangible it is, and what type of impact it has.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MVP Roadmap</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/mvp_roadmap/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/mvp_roadmap/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/mvp_roadmap/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/mvp_roadmap/</guid>
       <description>&lt;p&gt;A detailed product implementation roadmap involves careful and optimal sequencing - balancing technical dependencies with business and operational priorities.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>UML</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/uml/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/uml/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/uml/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/uml/</guid>
       <description>&lt;p&gt;A major digital initiative was stalled due to a vendor dispute. The only way through was to reverse engineer an API to a sophisticated real-time booking system&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Value Chain Analysis</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/value_chain_analysis/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/value_chain_analysis/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/value_chain_analysis/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/value_chain_analysis/</guid>
       <description>&lt;p&gt;Here I&amp;rsquo;m using swimming-lanes and colour-coding inside Porter&amp;rsquo;s value-chain model to discuss the prioritisation of process-automation of a service offering I was designing.&lt;/p&gt;</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>product-management strategy on Jonathan&#39;s Portfolio</title>
-    <link>https://github.com/jonathanvisser/consultant/categories/product-management-strategy/</link>
+    <link>https://jonathanvisser.github.io/consultant/categories/product-management-strategy/</link>
     <description>Recent content in product-management strategy on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
     
-	<atom:link href="https://github.com/jonathanvisser/consultant/categories/product-management-strategy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/categories/product-management-strategy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Market Sizing</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/market_sizing/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/market_sizing/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/market_sizing/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/market_sizing/</guid>
       <description>&lt;p&gt;There are different ways to construct a model for market sizing. Here is a classic top-down model. The one shown here suits situations where there is a large known market.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Customer Segmentation</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/customer_segmentation/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/customer_segmentation/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/customer_segmentation/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/customer_segmentation/</guid>
       <description>&lt;p&gt;One of the best ways to isolate the kind of differentiation needed to make headway in a competitive market is to look for value-propositions that intersect adjacent customer segments.&lt;/p&gt;</description>
     </item>
     

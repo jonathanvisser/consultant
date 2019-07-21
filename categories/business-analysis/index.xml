@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>business-analysis on Jonathan&#39;s Portfolio</title>
-    <link>https://github.com/jonathanvisser/consultant/categories/business-analysis/</link>
+    <link>https://jonathanvisser.github.io/consultant/categories/business-analysis/</link>
     <description>Recent content in business-analysis on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
     
-	<atom:link href="https://github.com/jonathanvisser/consultant/categories/business-analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/categories/business-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Estimation</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/software-estimation/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/software-estimation/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/software-estimation/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/software-estimation/</guid>
       <description>&lt;p&gt;There are many different ways to estimate software - depending on the timeframe and quality constraints. I&amp;rsquo;ve refined a number of techniques - and often find the best way is to combine them to fit the situation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Requirements Specification</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/requirements/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/requirements/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/requirements/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/requirements/</guid>
       <description>&lt;p&gt;Once the User Stories have been identified, it&amp;rsquo;s time to flesh-out the business rules. Cucumber/Gherkin is a great requirements specification standard to use. It&amp;rsquo;s business-user friendly, well-structured and consistent, and leads directly to automated testing.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>UI Wireframing</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/wireframing/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/wireframing/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/wireframing/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/wireframing/</guid>
       <description>&lt;p&gt;There are various ways to generate rapid UI prototypes. Sometimes a whiteboard diagram is all that&amp;rsquo;s required - once digitised and embedded in a document, it can be perfect for validating requirements and core business flows.&lt;/p&gt;
 
 &lt;p&gt;An intermediate approach - short of producing an HTML mock-up or engaging a designer - is to use a diagramming tool to put together a wireframe. This is an excellent way to really think through the scope and requirements.&lt;/p&gt;</description>
@@ -42,28 +42,28 @@
     
     <item>
       <title>Benefits Analysis</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/benefits_analysis/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/benefits_analysis/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/benefits_analysis/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/benefits_analysis/</guid>
       <description>&lt;p&gt;Here is an example of best-practice benefits modeling. Each benefit is placed on a matrix - positioned according to how tangible it is, and what type of impact it has.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>UML</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/uml/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/uml/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/uml/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/uml/</guid>
       <description>&lt;p&gt;A major digital initiative was stalled due to a vendor dispute. The only way through was to reverse engineer an API to a sophisticated real-time booking system&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Value Chain Analysis</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/value_chain_analysis/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/value_chain_analysis/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/value_chain_analysis/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/value_chain_analysis/</guid>
       <description>&lt;p&gt;Here I&amp;rsquo;m using swimming-lanes and colour-coding inside Porter&amp;rsquo;s value-chain model to discuss the prioritisation of process-automation of a service offering I was designing.&lt;/p&gt;</description>
     </item>
     

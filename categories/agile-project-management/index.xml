@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>agile project-management on Jonathan&#39;s Portfolio</title>
-    <link>https://github.com/jonathanvisser/consultant/categories/agile-project-management/</link>
+    <link>https://jonathanvisser.github.io/consultant/categories/agile-project-management/</link>
     <description>Recent content in agile project-management on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
     
-	<atom:link href="https://github.com/jonathanvisser/consultant/categories/agile-project-management/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/categories/agile-project-management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agile Reporting</title>
-      <link>https://github.com/jonathanvisser/consultant/portfolio/agile-reporting/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/agile-reporting/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://github.com/jonathanvisser/consultant/portfolio/agile-reporting/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/agile-reporting/</guid>
       <description>&lt;p&gt;Real-time transparency is a vital part of Agile. It means you can build confidence with stakeholders even as clarity is still forming and things are changing.&lt;/p&gt;</description>
     </item>
     
