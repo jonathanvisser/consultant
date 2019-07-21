@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>business-analysis agile project-management on Jonathan&#39;s Portfolio</title>
-    <link>https://jonathanvisser.github.io/consultant/categories/business-analysis-agile-project-management/</link>
+    <link>https://jonathanvisser.github.io/consultant/portfolio/categories/business-analysis-agile-project-management/</link>
     <description>Recent content in business-analysis agile project-management on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
     
-	<atom:link href="https://jonathanvisser.github.io/consultant/categories/business-analysis-agile-project-management/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/portfolio/categories/business-analysis-agile-project-management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MVP Roadmap</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/mvp_roadmap/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/mvp_roadmap/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/mvp_roadmap/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/mvp_roadmap/</guid>
       <description>&lt;p&gt;A detailed product implementation roadmap involves careful and optimal sequencing - balancing technical dependencies with business and operational priorities.&lt;/p&gt;</description>
     </item>
     

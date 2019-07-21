@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>business-analysis agile product-management on Jonathan&#39;s Portfolio</title>
-    <link>https://jonathanvisser.github.io/consultant/categories/business-analysis-agile-product-management/</link>
+    <link>https://jonathanvisser.github.io/consultant/portfolio/categories/business-analysis-agile-product-management/</link>
     <description>Recent content in business-analysis agile product-management on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
     
-	<atom:link href="https://jonathanvisser.github.io/consultant/categories/business-analysis-agile-product-management/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/portfolio/categories/business-analysis-agile-product-management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>User Story Mapping</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/user_story_mapping/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/user_story_mapping/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/user_story_mapping/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/user_story_mapping/</guid>
       <description>&lt;p&gt;User story mapping is an essential Agile requirements management technique. It builds a hierarchical behavioural model of the software, and outlines the essential business process flow by user role.&lt;/p&gt;</description>
     </item>
     

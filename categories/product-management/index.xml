@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>product-management on Jonathan&#39;s Portfolio</title>
-    <link>https://jonathanvisser.github.io/consultant/categories/product-management/</link>
+    <link>https://jonathanvisser.github.io/consultant/portfolio/categories/product-management/</link>
     <description>Recent content in product-management on Jonathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
     
-	<atom:link href="https://jonathanvisser.github.io/consultant/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanvisser.github.io/consultant/portfolio/categories/product-management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Design Thinking and Software Development</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/design-thinking/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/design-thinking/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/design-thinking/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/design-thinking/</guid>
       <description>&lt;p&gt;Design Thinking has really had a major impact on the way we innovate within software teams. I thought it would be interesting to illustrate how it could integrate with the software development lifecycle - showing how it aligns to a solution team.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Governance Reporting</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/product-governance-reporting/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/product-governance-reporting/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/product-governance-reporting/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/product-governance-reporting/</guid>
       <description>&lt;p&gt;We needed a lean and rapid way to manage a number of key internal innovation initiatives that had all begun across the company. I pulled together this dashboard in Excel - identifying key dimensions and metrics.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Produce Value Curve  Analysis</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/value_curve_analysis/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/value_curve_analysis/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/value_curve_analysis/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/value_curve_analysis/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s important to identify key competitive factors that will impact the success of your product. By evaluating competitor products using the same criteria, you can ensure you have a compelling offering. It also help with positioning and sales enablement.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sales Pipeline Modeling</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/sales-pipeline-modeling/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/sales-pipeline-modeling/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/sales-pipeline-modeling/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/sales-pipeline-modeling/</guid>
       <description>&lt;p&gt;This is a visualisation of a sales pipeline. It&amp;rsquo;s a bubble chart mapping sales stage to the horizontal axis, and opportunity size to the size of each data point. I&amp;rsquo;ve applied an arbitrary algorithm to create the funnel effect on the vertical axis.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sales Pipeline Report</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/sales-pipeline-report/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/sales-pipeline-report/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/sales-pipeline-report/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/sales-pipeline-report/</guid>
       <description>&lt;p&gt;This is an example sales pipeline report for a product. At each stage, the prospects are grouped into colour-coded priority targets - to help drive focus.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Solution Technology Review</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/solution-technology-review/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/solution-technology-review/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/solution-technology-review/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/solution-technology-review/</guid>
       <description>&lt;p&gt;This is a qualitative report card produced for some inherited enterprise software code base. I designed the dimensions to ensure we produced an holistic view. Speed was vital - so there are no time to become bogged down in analysis paralysis. So I created set of survey tools for each dimension and had relevant experts provide their input.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Service Productisation</title>
-      <link>https://jonathanvisser.github.io/consultant/portfolio/service-productisation/</link>
+      <link>https://jonathanvisser.github.io/consultant/portfolio/portfolio/service-productisation/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://jonathanvisser.github.io/consultant/portfolio/service-productisation/</guid>
+      <guid>https://jonathanvisser.github.io/consultant/portfolio/portfolio/service-productisation/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s important to make things easy and repeatable. As I helped a customer with a tricky situation, I realised I had assembled a solid approach - with a set of related techniques - that could help others. I packaged it into a methodology and produced supporting collateral.&lt;/p&gt;</description>
     </item>
     
